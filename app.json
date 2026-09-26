@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "BarberShop Barber",
+    "slug": "barbershop-barber-app",
+    "extra": {
+      "router": {}
+    },
+    "owner": "taha_ahmed_expo"
+  }
+}
